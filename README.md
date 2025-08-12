@@ -39,5 +39,3 @@ Soy estudiante de **Analista en Computación** y **Licenciatura en Ciencias de l
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
-
-**"A veces dejo que la lógica se desvanezca en la belleza de lo impredecible."**
