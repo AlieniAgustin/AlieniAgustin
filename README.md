@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy estudiante de **Analista en Computación** y **Licenciatura en Ciencias de la Computación** en la **Universidad Nacional de Río Cuarto (UNRC)**, actualmente en tercer año. Tengo 20 años y una gran pasión por la tecnología, la ciencia y la resolución de problemas complejos.
+Soy estudiante de **Licenciatura en Ciencias de la Computación** y **Analista en Computación** en la **Universidad Nacional de Río Cuarto (UNRC)**, actualmente en tercer año. Tengo 20 años y una gran pasión por la tecnología, la ciencia y la resolución de problemas complejos.
 
 ### Sobre mí
 - 📚 Intereses principales: **lógica, cálculo, inteligencia artificial y computación científica**.
@@ -16,7 +16,7 @@ Soy estudiante de **Analista en Computación** y **Licenciatura en Ciencias de l
 - [**Proyecto Malvinas UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — En proceso. Página web para que veteranos de la Guerra de Malvinas administren información de sus agrupaciones.
 - [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet) — Proyecto de desarrollo de una billetera virtual.
 
-> Ambos proyectos fueron desarrollados en equipo junto a compañeros de la universidad.  
+> Ambos proyectos son desarrollados en el ámbito universitario.  
 > Agradezco a la **Universidad Nacional de Río Cuarto (UNRC)** por el espacio de aprendizaje y las oportunidades para llevar ideas a la práctica.
 
 ---
