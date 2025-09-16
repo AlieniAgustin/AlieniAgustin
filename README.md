@@ -13,6 +13,7 @@ Soy estudiante de **Licenciatura en Ciencias de la Computación** y **Analista e
 - Explorando áreas de modelado y simulación científica.
 
 ### Repositorios interesantes
+- [**Campus Transport UNRC 2025**](https://github.com/Uni-Mov/rl-campus-transport) - En proceso. Plataforma universitaria de viajes compartidos donde un algoritmo de Reinforcement Learning decide qué pasajeros conviene recoger optimizando los tiempos de viaje y usando rutas base calculadas con Dijkstra/A*.
 - [**Proyecto Malvinas UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — En proceso. Página web para que veteranos de la Guerra de Malvinas administren información de sus agrupaciones.
 - [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet) — Proyecto de desarrollo de una billetera virtual.
 
