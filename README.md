@@ -17,7 +17,7 @@ Soy estudiante de **Licenciatura en Ciencias de la Computación** y **Analista e
 - [**Proyecto Malvinas UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — En proceso. Página web para que veteranos de la Guerra de Malvinas administren información de sus agrupaciones.
 - [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet) — Proyecto de desarrollo de una billetera virtual.
 
-> Ambos proyectos son desarrollados en el ámbito universitario.  
+> Estos proyectos son desarrollados en el ámbito universitario.  
 > Agradezco a la **Universidad Nacional de Río Cuarto (UNRC)** por el espacio de aprendizaje y las oportunidades para llevar ideas a la práctica.
 
 ---
