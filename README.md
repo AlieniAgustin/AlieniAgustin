@@ -1,58 +1,58 @@
-## ¡Hola! 👋
+## 👋 Hi there!
 
-Soy estudiante de **Licenciatura en Ciencias de la Computación** y
-**Analista en Computación** en la **Universidad Nacional de Río Cuarto
-(UNRC)**, actualmente en tercer año. Tengo 20 años y una gran pasión por
-la tecnología, la ciencia y la resolución de problemas complejos.
+I'm a **Computer Science** and **Computer Analyst** student at the **National University of Río Cuarto (UNRC)**, currently in my third year.  
+I'm 20 years old and deeply passionate about **technology, science**, and solving **complex problems**.
 
-### Sobre mí
+---
 
--   📚 Intereses principales: **lógica, cálculo, inteligencia
-    artificial, testing y computación científica**.
--   🧠 Futuro deseado: desarrollarme en **investigación académica**,
-    **testing**, **inteligencia artificial** y **aplicaciones de
-    escritorio**.
--   📈 Disfruto trabajar en **optimización de procesos y modelos**,
-    buscando soluciones eficientes y escalables.
--   🌱 Siempre aprendiendo nuevas herramientas, paradigmas y técnicas.
+### 💡 About Me
 
-### Repositorios interesantes
+- 📚 **Main interests:** logic, calculus, artificial intelligence, testing, and scientific computing.  
+- 🧠 **Future goals:** pursue a career in **academic research**, **software testing**, **AI**, and **desktop applications**.  
+- 📈 I enjoy working on **process optimization** and **model design**, seeking efficient and scalable solutions.  
+- 🌱 Always learning new tools, paradigms, and techniques to grow as a developer and researcher.
 
--   [**Campus Transport UNRC
-    2025**](https://github.com/Uni-Mov/rl-campus-transport) --- En
-    proceso. Plataforma universitaria de viajes compartidos donde un
-    algoritmo de Reinforcement Learning decide qué pasajeros conviene
-    recoger optimizando los tiempos de viaje.
--   [**Proyecto Malvinas UNRC
-    2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025)
-    --- En proceso. Página web para que veteranos de la Guerra de
-    Malvinas administren información de sus agrupaciones.
--   [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet)
-    --- Proyecto de desarrollo de una billetera virtual.
+---
 
-> Estos proyectos son desarrollados en el ámbito universitario.\
-> Agradezco a la **Universidad Nacional de Río Cuarto (UNRC)** por el
-> espacio de aprendizaje y las oportunidades para llevar ideas a la
-> práctica.
+### 🚀 Featured Projects
 
-------------------------------------------------------------------------
+- [**Campus Transport UNRC 2025**](https://github.com/Uni-Mov/rl-campus-transport) — *(In progress)*  
+  University ride-sharing platform where a **Reinforcement Learning** algorithm decides which passengers to pick up, optimizing travel times.
 
-### 📊 Lenguajes más usados
+- [**Malvinas Project UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — *(In progress)*  
+  Web platform for **Malvinas veterans** to manage organizational data and streamline information access.
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlieniAgustin&layout=compact&theme=radical)
+- [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet)  
+  Development of a **virtual wallet** focused on simplicity and usability.
 
-### 🛠 Tecnologías y herramientas
+> These projects are developed within the university environment.  
+> Special thanks to the **National University of Río Cuarto (UNRC)** for providing the space and opportunities to turn ideas into reality.
+
+---
+
+### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlieniAgustin&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlieniAgustin&theme=radical&margin-w=10&no-frame=true)
