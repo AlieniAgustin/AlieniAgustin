@@ -1,31 +1,49 @@
 ## ¡Hola! 👋
 
-Soy estudiante de **Licenciatura en Ciencias de la Computación** y **Analista en Computación** en la **Universidad Nacional de Río Cuarto (UNRC)**, actualmente en tercer año. Tengo 20 años y una gran pasión por la tecnología, la ciencia y la resolución de problemas complejos.
+Soy estudiante de **Licenciatura en Ciencias de la Computación** y
+**Analista en Computación** en la **Universidad Nacional de Río Cuarto
+(UNRC)**, actualmente en tercer año. Tengo 20 años y una gran pasión por
+la tecnología, la ciencia y la resolución de problemas complejos.
 
 ### Sobre mí
-- 📚 Intereses principales: **lógica, cálculo, inteligencia artificial y computación científica**.
-- 🧠 Futuro deseado: desarrollarme en **investigación académica**, **ciencia de datos**, **inteligencia artificial** y áreas afines.
-- 📈 Disfruto trabajar en **optimización de procesos y modelos**, buscando soluciones eficientes y escalables.
-- 🌱 Siempre aprendiendo nuevas herramientas, paradigmas y técnicas.
 
-### Actualmente
-- Combinando formación académica con proyectos personales y experimentación en IA y análisis de datos.
-- Explorando áreas de modelado y simulación científica.
+-   📚 Intereses principales: **lógica, cálculo, inteligencia
+    artificial, testing y computación científica**.
+-   🧠 Futuro deseado: desarrollarme en **investigación académica**,
+    **testing**, **inteligencia artificial** y **aplicaciones de
+    escritorio**.
+-   📈 Disfruto trabajar en **optimización de procesos y modelos**,
+    buscando soluciones eficientes y escalables.
+-   🌱 Siempre aprendiendo nuevas herramientas, paradigmas y técnicas.
 
 ### Repositorios interesantes
-- [**Campus Transport UNRC 2025**](https://github.com/Uni-Mov/rl-campus-transport) - En proceso. Plataforma universitaria de viajes compartidos donde un algoritmo de Reinforcement Learning decide qué pasajeros conviene recoger optimizando los tiempos de viaje y usando rutas base calculadas con Dijkstra/A*.
-- [**Proyecto Malvinas UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — En proceso. Página web para que veteranos de la Guerra de Malvinas administren información de sus agrupaciones.
-- [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet) — Proyecto de desarrollo de una billetera virtual.
 
-> Estos proyectos son desarrollados en el ámbito universitario.  
-> Agradezco a la **Universidad Nacional de Río Cuarto (UNRC)** por el espacio de aprendizaje y las oportunidades para llevar ideas a la práctica.
+-   [**Campus Transport UNRC
+    2025**](https://github.com/Uni-Mov/rl-campus-transport) --- En
+    proceso. Plataforma universitaria de viajes compartidos donde un
+    algoritmo de Reinforcement Learning decide qué pasajeros conviene
+    recoger optimizando los tiempos de viaje.
+-   [**Proyecto Malvinas UNRC
+    2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025)
+    --- En proceso. Página web para que veteranos de la Guerra de
+    Malvinas administren información de sus agrupaciones.
+-   [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet)
+    --- Proyecto de desarrollo de una billetera virtual.
 
----
+> Estos proyectos son desarrollados en el ámbito universitario.\
+> Agradezco a la **Universidad Nacional de Río Cuarto (UNRC)** por el
+> espacio de aprendizaje y las oportunidades para llevar ideas a la
+> práctica.
+
+------------------------------------------------------------------------
 
 ### 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlieniAgustin&layout=compact&theme=radical)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlieniAgustin&layout=compact&theme=radical)
 
 ### 🛠 Tecnologías y herramientas
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,5 +56,3 @@ Soy estudiante de **Licenciatura en Ciencias de la Computación** y **Analista e
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
