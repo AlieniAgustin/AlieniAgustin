@@ -16,10 +16,10 @@ I'm 20 years old and deeply passionate about **technology, science**, and solvin
 
 ### 🚀 Featured Projects
 
-- [**Campus Transport UNRC 2025**](https://github.com/Uni-Mov/rl-campus-transport) — *(In progress)*  
+- [**Campus Transport UNRC 2025**](https://github.com/Uni-Mov/rl-campus-transport)  
   University ride-sharing platform where a **Reinforcement Learning** algorithm decides which passengers to pick up, optimizing travel times.
 
-- [**Malvinas Project UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025) — *(In progress)*  
+- [**Malvinas Project UNRC 2025**](https://github.com/AlieniAgustin/proyecto-malvinas-unrc-2025)
   Web platform for **Malvinas veterans** to manage organizational data and streamline information access.
 
 - [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet)  
