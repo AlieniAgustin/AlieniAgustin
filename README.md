@@ -44,6 +44,9 @@ I'm 20 years old and deeply passionate about **technology, science**, and solvin
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
@@ -52,7 +55,3 @@ I'm 20 years old and deeply passionate about **technology, science**, and solvin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlieniAgustin&layout=compact&theme=radical)
 
 ---
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlieniAgustin&theme=radical&margin-w=10&no-frame=true)
