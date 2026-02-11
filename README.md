@@ -24,6 +24,9 @@ I'm 20 years old and deeply passionate about **technology, science**, and solvin
 
 - [**Obvio Wallet**](https://github.com/AlieniAgustin/obvio-wallet)  
   Development of a **virtual wallet** focused on simplicity and usability.
+  
+- [**Starfighter Project**](https://github.com/ingenieria-de-software-unrc/proyecto-de-ingenier-a-de-software-2025-while-false)  
+  A 2D space shooter game developed to apply Software Engineering principles, including Design Patterns, MVC architecture, and rigorous Unit Testing.
 
 > These projects are developed within the university environment.  
 > Special thanks to the **National University of Río Cuarto (UNRC)** for providing the space and opportunities to turn ideas into reality.
