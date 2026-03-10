@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm a **Computer Science** and **Computer Analyst** student at the **National University of Río Cuarto (UNRC)**, currently in my third year.  
+I'm a **Computer Science** and **Computer Analyst** student at the **National University of Río Cuarto (UNRC)**, currently in my fourth year.  
 I'm 20 years old and deeply passionate about **technology, science**, and solving **complex problems**.
 
 ---
